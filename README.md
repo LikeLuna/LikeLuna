@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LikeLuna
+- 👋 Hi, I’m @Megha
 - 👀 I’m interested in tech, gadgets, guitar and learning interesting thing
 - ✌ Have hands on experience of css, html, python, sql
 - 🌱 I’m currently learning web developing, java 
