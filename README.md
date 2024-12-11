@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web developing, java 
 - 📫 How to reach me? on LinkedIn
 - 😄 Pronouns: she
-- ⚡ Fun fact: tony stark and hiro hamada are my inspirations
+
 
 <!---
 LikeLuna/LikeLuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
