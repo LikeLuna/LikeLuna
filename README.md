@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Megha
 - 👀 I’m interested in tech, gadgets, guitar and learning interesting thing
-- ✌ Have hands on experience of css, html, python, sql
-- 🌱 I’m currently learning web developing, java 
+- ✌ Have hands on experience of linux, bash scripting, tools (wireshark, nmap) worked on some aiml projects and css, html, python, sql
+- 🌱 I’m currently learning cybersecurity as well as Machine learning
+- knows about web developing, java 
 - 📫 How to reach me? on LinkedIn
 - 😄 Pronouns: she
 
