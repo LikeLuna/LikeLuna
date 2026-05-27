@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @Megha
-- 👀 I’m interested in tech, gadgets, guitar and learning interesting thing
-- ✌ Have hands on experience of linux, bash scripting, tools (wireshark, nmap) worked on some aiml projects and css, html, python, sql
-- 🌱 I’m currently learning cybersecurity as well as Machine learning
-- knows about web developing, java 
-- 📫 How to reach me? on LinkedIn
-- 😄 Pronouns: she
+# Megha Acharya
 
+B.Tech IT student — interested in how systems break and how to catch it when they do.
+Building toward offensive security, starting from the ground up.
 
-<!---
-LikeLuna/LikeLuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Currently working on
+- Home cybersecurity lab — pfSense + Kali + Metasploitable 2
+- Active Directory attack & detection lab *(coming next)*
+- CompTIA Network+ / Security+ self-study
+
+### Tools & skills
+`Kali Linux` `Nmap` `Metasploit` `Wireshark` `pfSense` `Bash` `Python`
+
+### Practice
+OverTheWire: Bandit &nbsp;·&nbsp; PicoCTF &nbsp;·&nbsp; TryHackMe
+
+---
+
+📬 achmegha2005@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/megha-acharya-0656902a2/)
